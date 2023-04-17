@@ -1,4 +1,5 @@
-# Pok-mon-Game
+# Pokemon-Game
 
-## open index.html to playgame
-## you can talk with npc `spacebar` 
+## how to play 
+### open index.html to playgame
+### you can talk with npc `spacebar` 
